@@ -2,6 +2,10 @@
 
 衣装参考资产库（COSTUME-DB-01，原名「衣装集」），来自 <https://ai-costume-gallery.pages.dev/> 的本地镜像。
 
+相关图库：
+- 线稿姿态图：<https://ai-pose-gallery.pages.dev/>
+- 深度姿态图：<https://ai-pose-depth-gallery.pages.dev/>
+
 ## 资产概览
 
 - **总图片量**: 1407 张 PNG 原图（原寸）
